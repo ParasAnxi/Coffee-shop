@@ -183,6 +183,7 @@ button {
 
 button:hover {
   background: white;
+  background: #ff1d21;
   color: #4D8B55;
 }
 
